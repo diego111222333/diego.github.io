@@ -1,0 +1,25 @@
+.images{
+    border-radius: 25px;
+    width: 100%;
+    height: auto;
+}
+.images:hover{
+    transform: rotate(-10deg);
+}
+.text{
+    border-radius: 25px;
+    background-color: aquamarine;
+    color: black;
+    text-align: center;
+    padding: 15px;
+    font-size: medium;
+    font-family: cursive;
+}
+.galery{
+    border: 2px solid gold;
+    width: 22%;
+    float: left;
+}
+.galery:hover{
+    border: 6px solid rgb(21, 199, 36);
+}
